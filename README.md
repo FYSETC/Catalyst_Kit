@@ -104,7 +104,8 @@ The MCU model we use is STM32F401RCT6, with an external 8Mhz crystal oscillator,
 
    - Powered off the whole machine
    - Use a jumper cap to connect 3V3 and B0(boot0)
-     [img]()
+   ![image](https://github.com/FYSETC/Catalyst_Kit/assets/16657422/43ac39e2-d3b0-4992-9f57-127489c44fe9)
+  
    - Power on the whole machine and wait for it to start
 
 2. Use putty or similar SSH tools to connect to CM68 using IP or host name
@@ -144,6 +145,8 @@ The MCU model we use is STM32F401RCT6, with an external 8Mhz crystal oscillator,
     
     - Powered off the whole machine
     - Use a jumper cap to connect B0(boot0) and G(GND)
+      ![image](https://github.com/FYSETC/Catalyst_Kit/assets/16657422/9fbd1c61-a14d-4de4-b591-93dc6437292f)
+
     - Power on the whole machine and wait for it to start
 
 # Print
