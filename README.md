@@ -76,29 +76,27 @@ In general, the pre-installed system can be used directly without re-flashing, u
 
 The OS of CM68 (voron-02-pro):
 
-1. Install klipper and its necessary plug-ins in the initial version (Debian10):
-file name: rk3568-debian10-voron02pro-mainsail.rar
-Download：
+1. Install klipper and its necessary plug-ins in the initial version (Debian10):</br>
+file name: rk3568-debian10-voron02pro-mainsail.rar</br>
+Download：</br>
 https://drive.google.com/file/d/13Tcclv2N4jrMm01r_HPVqZ3v6CVUCk1H/view?usp=drive_link
 
 
-2. bugfix (Debian10) Install klipper and its necessary plug-ins:
-file name: cm68-debian10-voron02pro-mainsail-20230923-154632.img
-Fix "vdd_cpu: ramp_delay not set" warning
-Download：
+2. bugfix (Debian10) Install klipper and its necessary plug-ins:</br>
+file name: cm68-debian10-voron02pro-mainsail-20230923-154632.img</br>
+Fix "vdd_cpu: ramp_delay not set" warning</br>
+Download：</br>
 https://drive.google.com/file/d/13Tcclv2N4jrMm01r_HPVqZ3v6CVUCk1H/view?usp=drive_link
 
 
-3. 5.1 kernel, Debian11, install klipper and its necessary plug-ins:
-file name: cm68-debian11-voron02pro-part-20231107-1211.img
+3. 5.1 kernel, Debian11, install klipper and its necessary plug-ins:</br>
+file name: cm68-debian11-voron02pro-part-20231107-1211.img</br>
+Download：</br>
+https://drive.google.com/file/d/1rhYSTQhsnIySWOnArb-KzfS_5ioayIdm/view?usp=drive_link</br>
 
-Download：
-https://drive.google.com/file/d/1rhYSTQhsnIySWOnArb-KzfS_5ioayIdm/view?usp=drive_link
-
-4. 5.1 kernel, Debian11, install all plug-ins supported by kiauh.
-file name: cm68-debian11-voron02pro-all-20231107-1157.img
-
-Download：
+4. 5.1 kernel, Debian11, install all plug-ins supported by kiauh.</br>
+file name: cm68-debian11-voron02pro-all-20231107-1157.img</br>
+Download：</br>
 https://drive.google.com/file/d/1RwSsYh74uzc6N8ZZUWCPG4JZDjomelVW/view?usp=drive_link
 Google Docs
 
