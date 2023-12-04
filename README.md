@@ -74,9 +74,33 @@ The control board uses the CM68 core based on RK3568 as the upper computer of Kl
 
 In general, the pre-installed system can be used directly without re-flashing, unless you encounter unsolvable program problems.
 
-The OS of CM68:
+The OS of CM68 (voron-02-pro):
 
-https://drive.google.com/file/d/1JBLMIpcVtEe9ST9WWUlaOP-ofm4k7y5c/view?usp=drive_link
+1. Install klipper and its necessary plug-ins in the initial version (Debian10):
+file name: rk3568-debian10-voron02pro-mainsail.rar
+Download：
+https://drive.google.com/file/d/13Tcclv2N4jrMm01r_HPVqZ3v6CVUCk1H/view?usp=drive_link
+
+
+2. bugfix (Debian10) Install klipper and its necessary plug-ins:
+file name: cm68-debian10-voron02pro-mainsail-20230923-154632.img
+Fix "vdd_cpu: ramp_delay not set" warning
+Download：
+https://drive.google.com/file/d/13Tcclv2N4jrMm01r_HPVqZ3v6CVUCk1H/view?usp=drive_link
+
+
+3. 5.1 kernel, Debian11, install klipper and its necessary plug-ins:
+file name: cm68-debian11-voron02pro-part-20231107-1211.img
+
+Download：
+https://drive.google.com/file/d/1rhYSTQhsnIySWOnArb-KzfS_5ioayIdm/view?usp=drive_link
+
+4. 5.1 kernel, Debian11, install all plug-ins supported by kiauh.
+file name: cm68-debian11-voron02pro-all-20231107-1157.img
+
+Download：
+https://drive.google.com/file/d/1RwSsYh74uzc6N8ZZUWCPG4JZDjomelVW/view?usp=drive_link
+Google Docs
 
 Update steps:
 
