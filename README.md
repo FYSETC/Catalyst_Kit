@@ -95,10 +95,23 @@ Download：</br>
 https://drive.google.com/file/d/1rhYSTQhsnIySWOnArb-KzfS_5ioayIdm/view?usp=drive_link</br>
 
 4. 5.1 kernel, Debian11, install all plug-ins supported by kiauh.</br>
-file name: cm68-debian11-voron02pro-all-20231107-1157.img</br>
-Download：</br>
+**file name:** cm68-debian11-voron02pro-all-20231107-1157.img</br>
+**Download:** </br>
 https://drive.google.com/file/d/1RwSsYh74uzc6N8ZZUWCPG4JZDjomelVW/view?usp=drive_link
 Google Docs
+
+**5 & 6 Fixed the RTL8188EUS WIFI Diver issue** </br>
+
+5. 5.1 kernel, Debian11, install all plug-ins supported by kiauh.</br>
+**file name:** cm68-debian11-voron02pro-all-20231215.rar</br>
+**Download:** </br>
+https://drive.google.com/file/d/1aGxkKDje69fH9lJNZlRNIsSG2d_Z3Y20/view?usp=drive_link/</br>
+
+6. 5.1 kernel, Debian11, install klipper and its necessary plug-ins:</br>
+**file name:** cm68-debian11-voron02pro-part-20231215.rar</br>
+**Download:** </br>
+https://drive.google.com/file/d/1jtd5bbeK2osySYbc_Y-N9HqvL0vuzt-D/view?usp=drive_link/</br>
+
 
 Update steps:
 
